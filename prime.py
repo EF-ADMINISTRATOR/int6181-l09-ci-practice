@@ -1,3 +1,4 @@
+# This function determines whether the number is a prime number.
 # prime.py
 import math
 def is_prime(number):
